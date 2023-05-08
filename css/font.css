@@ -1,0 +1,52 @@
+/* Wisdom Chimezie copyright ©️ 2023 */
+
+/* ------------ Google Fonts ----------- */
+
+/* Poppins */
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/Poppins-BoldItalic.ttf');
+}
+
+/* Montserrat */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Poppins-BoldItalic.ttf');
+}
+
+/* Barlow */
+@font-face {
+    font-family: 'Barlow';
+    src: url('../fonts/Barlow-ExtraBold.ttf');
+}
+
+/* Aclonica */
+
+@font-face {
+    font-family: 'Aclonica';
+    src: url('../fonts/Aclonica-Regular.ttf');
+}
+
+/* Rabbit */
+
+@font-face {
+    font-family: Rabbit;
+    src: url('../fonts/Rabbit.otf');
+  }
+
+/* Raleway */
+
+@font-face {
+    font-family: "Raleway";
+    src: url('../fonts/Raleway-Black.ttf');
+}
+
+/* Champagne */
+
+@font-face {
+    font-family: Champagne;
+    src: url('../fonts/Champagne.ttf');
+}
+
